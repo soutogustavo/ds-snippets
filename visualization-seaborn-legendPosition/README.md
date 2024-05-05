@@ -4,8 +4,8 @@
 # Visualization
 
 You can visualize this notebook using **nbviewer**. <br><br>
-It can be checked at <br>
-https://nbviewer.org/github/soutogustavo/Data-Science-Resources/blob/main/visualization-seaborn-legendPosition/visualization-seaborn-legposition.ipynb.
+It can be checked at
+<a href="https://nbviewer.org/github/soutogustavo/Data-Science-Resources/blob/main/visualization-seaborn-legendPosition/visualization-seaborn-legposition.ipynb" target="_blank">Legend Position notebook at Nbviewer</a>
 
 </br>
 :rotating_light: </br>
