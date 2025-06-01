@@ -3,6 +3,7 @@
 Common statistics in data science. Includes:
 
 - correlation
+- data distribution
 - variability
 - central tendency
 - bias/sample selection
