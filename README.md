@@ -12,6 +12,7 @@ Whether it's a quick pandas trick, a common `sklearn` pattern, or a debugging ti
 |-------------------|---------------------------------------------------------------|
 | `pandas/`          | Data wrangling tricks: merging, reshaping, filtering, etc.   |
 | `sklearn/`         | Modeling tips: pipelines, custom scoring, feature selection  |
+| `boosting/`        | Presenting boosting methods such as XGBoost                  |
 | `visualization/`   | Plotting with Matplotlib, Seaborn, Plotly                    |
 | `stats/`           | Hypothesis testing, confidence intervals, statistical tests  |
 | `measurements/`    | Evaluation metrics: regression, classification, ranking, etc |
