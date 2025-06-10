@@ -8,15 +8,16 @@ Whether it's a quick pandas trick, a common `sklearn` pattern, or a debugging ti
 
 ## 📚 What's Inside
 
-| Category           | Description                                                  |
-|-------------------|---------------------------------------------------------------|
-| `pandas/`          | Data wrangling tricks: merging, reshaping, filtering, etc.   |
-| `sklearn/`         | Modeling tips: pipelines, custom scoring, feature selection  |
-| `boosting/`        | Presenting boosting methods such as XGBoost                  |
-| `visualization/`   | Plotting with Matplotlib, Seaborn, Plotly                    |
-| `stats/`           | Hypothesis testing, confidence intervals, statistical tests  |
-| `measurements/`    | Evaluation metrics: regression, classification, ranking, etc |
-| `sql/`             | Analytical SQL: joins, window functions, subqueries          |
-| `tips/`            | Deployment, debugging, Git, Docker, MLflow, etc.             |
+| Category         | Description                                                  |
+|------------------|--------------------------------------------------------------|
+| `pandas/`        | Data wrangling tricks: merging, reshaping, filtering, etc.   |
+| `sklearn/`       | Modeling tips: pipelines, custom scoring, feature selection  |
+| `boosting/`      | Presenting boosting methods such as XGBoost                  |
+| `visualization/` | Plotting with Matplotlib, Seaborn, Plotly                    |
+| `stats/`         | Hypothesis testing, confidence intervals, statistical tests  |
+| `measurements/`  | Evaluation metrics: regression, classification, ranking, etc |
+| `sql/`           | Analytical SQL: joins, window functions, subqueries          |
+| `DSA/`           | Data Structure and Algorithms                                |
+| `tips/`          | Deployment, debugging, Git, Docker, MLflow, etc.             |
 
 ---
